@@ -628,6 +628,10 @@ public class frmJogoDaVelha extends javax.swing.JFrame {
         // Reseta o contador de vitórias de ambos os jogadores para 0, usando formato hexadecimal
         lbVitoriasJogador1.setText(Integer.toHexString(0));
         lbVitoriasJogador2.setText(Integer.toHexString(0));
+
+        //Reseta as váriaveis de contagem de vitórias dos jogadores
+        vitorias1 = 0;
+        vitorias2 = 0;
     }
 
     /**
