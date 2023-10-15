@@ -1,6 +1,6 @@
 # Jogo da Velha em Java
 
-<img src="https://github.com/GiulianoVianna/JogoDaVelha_Java/assets/101942554/bd172436-9c4f-4d23-a259-76141106e82c" width="300">
+
 
 ## Índice
 
